@@ -1,0 +1,29 @@
+
+
+ IPHONE 
+ 
+
+The format of the credit card number entered does not match the card type you specified. Please check for accuracy and try again. (0018)
+
+The CID length for the card type selected or entered is invalid. Please check for accuracy and try again. (0116)
+ IPHONE
+ 
+
+The format of the credit card number entered does not match the card type you specified. Please check for accuracy and try again. (0018)
+
+The CID length for the card type selected or entered is invalid. Please check for accuracy and try again. (0116)
+ 
+
+The format of the credit card number entered does not match the card type you specified. Please check for accuracy and try again. (0018)
+
+The CID length for the card type selected or entered is invalid. Please check for accuracy and try again. (0116)
+ 
+
+The format of the credit card number entered does not match the card type you specified. Please check for accuracy and try again. (0018)
+
+The CID length for the card type selected or entered is invalid. Please check for accuracy and try again. (0116)
+ 
+
+The format of the credit card number entered does not match the card type you specified. Please check for accuracy and try again. (0018)
+
+The CID length for the card type selected or entered is invalid. Please check for accuracy and try again. (0116)

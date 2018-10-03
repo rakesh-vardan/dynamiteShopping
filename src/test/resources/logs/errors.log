@@ -1,0 +1,10 @@
+
+************** log start *********************
+
+ FATAL - BrowserDriver.urlContains(BrowserDriver.java:232) - errorLogger - 28 Jan 2017 21:39:22,062 -
+ Timed out after 60 seconds waiting for url to contain "https://www-ssl.bestbuy.ca/Order/SelectCheckoutMethod.aspx". Current url: "https://www-ssl.bestbuy.ca/Order/Basket.aspx"
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'home-PC', ip: '192.168.1.70', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf), userDataDir=C:\Users\home\AppData\Local\Temp\scoped_dir7052_22191}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.76, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 26d6ddf810c61b5896f2255d529a90ca 

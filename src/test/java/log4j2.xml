@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    
+    <Properties>    
+    	<Property name="errorFile">src/test/resources/logs/errors.log</Property>        	
+    </Properties>
+    
+    <Appenders>
+    
+        <Console name="Console" target="SYSTEM_OUT">                        
+            <PatternLayout 
+                     header="%n************** log start *********************%n"                            
+                     pattern="%n %-5level - %location - %c{1} - %d{DATE} - %n %msg %n" 
+            />            
+        </Console>
+        
+        <File name="errors" fileName="${errorFile}" append="false">
+
+            <!-->RegexFilter regex=".*error.*" onMatch="ACCEPT" onMismatch="DENY"/-->            
+            <PatternLayout
+                     header="%n************** log start *********************%n" 
+                     pattern="%n %-5level - %location - %c{1} - %d{DATE} - %n %msg %n"
+            />
+                     
+        </File>
+                        
+    </Appenders>
+    
+    <Loggers>
+    
+    	<Root level="error">
+            <AppenderRef ref="Console" level="error"/>
+            <AppenderRef ref="errors" level="error"/>        
+        </Root>
+        
+    </Loggers>
+</Configuration>
