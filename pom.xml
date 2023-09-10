@@ -15,7 +15,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <selenium.version>3.4.0</selenium.version>
+        <selenium.version>3.141.59</selenium.version>
         <defaultSuiteFiles></defaultSuiteFiles>
         <suiteFile>${defaultSuiteFiles}</suiteFile>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
